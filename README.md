@@ -1,4 +1,4 @@
-# React Boilerplate App - Fullstack Test 
+# React Boilerplate
 
 ## Technologies used:
 
